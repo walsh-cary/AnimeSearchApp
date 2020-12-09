@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimeSearchApp</string>
+    <string name="anime_title">Naruto</string>
+    <string name="splash_image_for_anime">Splash image for anime</string>
+    <string name="synopsis">Moments prior to Naruto Uzumaki\'s birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi\'...</string>
+    <string name="type">Type: %1$s</string>
+    <string name="episode_count">Episode Count: %1$d</string>
+    <string name="score">Viewer score: %1$.2f</string>
+    <string name="rated">Rated: %1$s</string>
+    <string name="search_hint">Type search string here</string>
+</resources>
